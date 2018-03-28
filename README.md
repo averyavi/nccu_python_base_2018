@@ -4,6 +4,9 @@
 
 如果你沒有jupyter的環境，請點選以下網址觀看:
 
-https://nbviewer.jupyter.org/urls/jtfwythzliobrxe6splmtq-on.drv.tw/python_base/Python_base_Part_1_1_chinese.html
+https://jtfwythzliobrxe6splmtq-on.drv.tw/python_base/Python_base_Part_1_1_chinese.html
+https://jtfwythzliobrxe6splmtq-on.drv.tw/python_base/Python_base_Part_1_2_1-Chinese.html
+https://jtfwythzliobrxe6splmtq-on.drv.tw/python_base/Python_base_Part_1_2_2_chinese.html
+
 
 有安裝的，可以打包回去練習。
